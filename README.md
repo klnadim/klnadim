@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @klnadim
+- 👋 Hi, I’m Md Nadim Alam Soikat
 - 👀 I’m interested in Learning and coding.
 - 🌱 I’m currently learning Cross platform app development
 - 💞️ I’m looking to collaborate on ...
